@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I am Rohit Nehul</h1>
 
-<h3 align="center">A Passionate Full Stack developer </h3>
+<h3 align="center">A Passionate Full Stack Developer </h3>
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 

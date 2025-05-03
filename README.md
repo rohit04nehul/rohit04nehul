@@ -8,6 +8,10 @@
 
 <br>
 
+<h3 align="center"> Freelancer </h3>
+
+<br>
+
 <h3 align="center"> Open Source Developer </h3>
 
 <p align="left">

@@ -6,10 +6,7 @@
 <!--   <img width="400" src = "https://drive.google.com/file/d/19cAG9XN1N84I6tY0I7OEfLCCQ006In2f/view?usp=drive_link" alt="coding"> -->
 </div>
 
-<p align="left">
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
-</p>
-  
+
 <h1 align="center">Hi 👋, I am Rohit Nehul</h1>
 
 <p align="left">

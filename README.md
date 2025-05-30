@@ -4,6 +4,10 @@
 
 <h1 align="center">Hi 👋, I am Rohit Nehul</h1>
 
+<p align="left">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
+</p>
+
 <h3 align="center"> Full Stack Developer </h3>
 
 

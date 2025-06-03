@@ -29,7 +29,7 @@
 - *Education:* BE in Artificial Intelligence and Machine Learning at PES Modern College of Engineering, Pune
 
 
-- *Skills:* Java , SQL , Python , AI/ML , HTML/CSS
+- *Skills:* Java , SQL , Python , AI/ML , Web Development , Linux , Machine Learning
 - *Interests:* Building impactful software solutions, collaborating on innovative projects
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 

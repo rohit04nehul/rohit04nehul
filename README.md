@@ -13,7 +13,7 @@
 
 ### 🙋‍♂️ About Me
 
-🎓 I have completed my **Bachelor of Engineering (BE)** in **Artificial Intelligence and Machine Learning** from **PES Modern College of Engineering, Pune**  
+🎓 I have completed my **Bachelor of Engineering (BE)** in **Artificial Intelligence and Machine Learning** from **Savitribai Phule Pune University**  
 💻 I enjoy building scalable software, solving real-world problems, and exploring cutting-edge AI technologies  
 💡 Passionate about AI/ML, Full Stack Development, and building impactful tech solutions  
 🤝 Always open to collaboration, freelance work, and internships in the AI/Software domain

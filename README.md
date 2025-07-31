@@ -2,8 +2,9 @@
 <h3 align="center">Aspiring AI Engineer | Passionate about Machine Learning, Deep Learning & GenAI</h3>
 
 <p align="center">
-  <img src="./coding_profile.png" alt="Rohit Nehul - Developer Pixel Art" width="250"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="AI Developer at work" width="300"/>
 </p>
+
 
 ---
 

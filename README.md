@@ -25,7 +25,8 @@
 `Machine Learning` • `Deep Learning` • `Data Science` • `Computer Vision` • `NLP` • `Reinforcement Learning` • `Generative AI` • `LLMs`
 
 **Frameworks & Libraries:**  
-`TensorFlow` • `Keras` • `PyTorch` • `Scikit-learn` • `OpenCV` • `Streamlit` • `Flask` • `Pandas` • `NumPy` • `Matplotlib`
+`TensorFlow` • `Keras` • `PyTorch` • `Scikit-learn` • `OpenCV` • `Streamlit` • `Flask`  
+`Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
 
 **Tools:**  
 `Git` • `Docker` • `Jupyter` • `VS Code` • `PyCharm` • `IntelliJ`
@@ -35,9 +36,8 @@
 ### 📫 Contact
 
 - 📧 **Email:** rohitnehul@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/rohitnehul](https://linkedin.com/in/rohitnehul)  
-- 🌐 **Portfolio (optional):** [rohitnehul.github.io](https://rohitnehul.github.io)
+- 💼 **LinkedIn:** [linkedin.com/in/rohitnehul](https://linkedin.com/in/rohitnehul)
 
 ---
 
-<!-- Make sure coding_profile.png is added to your repo root -->
+<!-- Ensure coding_profile.png is in the root directory of your repo -->

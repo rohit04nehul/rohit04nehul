@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohit Nehul</h1>
 <h3 align="center">Aspiring AI Engineer | Passionate about Machine Learning, Deep Learning & GenAI</h3>
 
-<p align="center">
-  <img src="./photo.gif" alt="Rohit Nehul GIF" width="300"/>
-</p>
 
 ---
 
